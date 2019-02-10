@@ -13,7 +13,7 @@ make clean      # 刪除執行檔、留下程式碼
 2. 所有專案一起編譯
 ```bash
 git clone https://github.com/LS-NotInUse/java
-cd java
+cd java/
 make            # 編譯所有專案
 make clean      # 刪除所有執行檔
 ```
